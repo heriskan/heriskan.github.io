@@ -14,4 +14,6 @@ I'm using [Scoop](https://scoop.sh/) to install ruby and other things because it
 
 `scoop install ruby msys2`
 
-Anyway, welcome.
+Anyway, welcome. Here's a picture for you because I'm feeling so hungry right now at 11 pm.
+
+![hungry](/assets/images/hungry-so-meme.jpg)
