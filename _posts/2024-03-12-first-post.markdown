@@ -8,7 +8,7 @@ This is the first post on this site. Hosted on github pages for simple purpose. 
 
 This is what I've done
 
-## Install ruby, msys2, and toolchain by scoop
+### Install ruby, msys2, and toolchain by scoop
 
 `scoop install ruby msys2`
 
