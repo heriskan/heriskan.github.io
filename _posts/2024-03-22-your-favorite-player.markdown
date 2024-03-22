@@ -15,7 +15,7 @@ Checking repo... OK
 The main bucket was added successfully.
 Scoop was updated successfully!
 Installing 'mpv' (0.37.0) [64bit] from extras bucket
-mpv-0.37.0-x86_64.7z (26,7 MB) [==============================================================================] 100%
+mpv-0.37.0-x86_64.7z (26,7 MB) [================================================] 100%
 Checking hash of mpv-0.37.0-x86_64.7z ... ok.
 Extracting mpv-0.37.0-x86_64.7z ... done.
 Linking ~\scoop\apps\mpv\current => ~\scoop\apps\mpv\0.37.0
